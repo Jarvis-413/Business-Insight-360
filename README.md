@@ -4,7 +4,7 @@ After working with data for years, I realized one common problem across organiza
 
 So, I built Business Insights 360, an end-to-end Power BI solution designed to solve real-world business challenges across Finance, Sales, Marketing, and Supply Chain.
 ----------------------------------------
-Get live Dashboard view:
+**Get live Dashboard view:**
 https://app.powerbi.com/view?r=eyJrIjoiNmUzMzRkMmMtOGExMC00Mjc0LTliY2MtZThhMDMyY2NlYjE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 🔍 💡 Problem Statement
