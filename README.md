@@ -14,22 +14,27 @@ Organizations often struggle with:
 
 📊 Solution – Business Insights 360 Dashboard
 I designed an interactive, multi-functional Power BI dashboard that provides a 360° view of business performance.
+
 🔹 Finance View
 Full P&L Statement
 Net Sales, Gross Margin, Net Profit tracking
 Identifies cost drivers impacting profitability
+
 🔹 Sales View
 Customer & Product performance analysis
 Profitability & Growth Matrix
 Highlights high-revenue but low-margin customers
+
 🔹 Marketing View
 Revenue by channel & region
 Market share trends
 Performance benchmarking
+
 🔹 Supply Chain View
 Forecast Accuracy tracking (90%+)
 Net Error & Risk analysis (OOS / Excess Inventory)
 Helps optimize inventory planning
+
 🔹 Executive View
 High-level KPI dashboard
 Enables quick, strategic decision-making
